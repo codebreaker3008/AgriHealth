@@ -1,7 +1,7 @@
 # AgriHealth
 Test it out - https://agrihealth.streamlit.app
 ## Inspiration
-As a Nigerian, I've witnessed a significant rise in prices and inflation across all sectors, particularly affecting food prices. Food, being one of life's essentials, is experiencing soaring prices, contributing to increased hunger and poverty among families. This is directly at odds with Sustainable Development Goals 1 and 2, which aim to eradicate poverty and hunger, respectively.
+I've witnessed a significant rise in prices and inflation across all sectors, particularly affecting food prices. Food, being one of life's essentials, is experiencing soaring prices, contributing to increased hunger and poverty among families. This is directly at odds with Sustainable Development Goals 1 and 2, which aim to eradicate poverty and hunger, respectively.
 
 Our vision is to bolster local food production, encompassing both livestock and crops, to drive sustainable development in our country. By reducing dependency on foreign imports, which is a primary driver of escalating food prices amidst a deteriorating economy, we aim to create a more resilient food system.
 
