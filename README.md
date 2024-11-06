@@ -1,5 +1,4 @@
 # AgriHealth
-Test it out - https://agrihealth.streamlit.app
 ## Inspiration
 I've witnessed a significant rise in prices and inflation across all sectors, particularly affecting food prices. Food, being one of life's essentials, is experiencing soaring prices, contributing to increased hunger and poverty among families. This is directly at odds with Sustainable Development Goals 1 and 2, which aim to eradicate poverty and hunger, respectively.
 
